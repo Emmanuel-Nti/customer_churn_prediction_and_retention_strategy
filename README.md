@@ -22,5 +22,5 @@
 - `Month_to_end_contract:` the months remaining until the contract expires.
 - `Group_visits:` whether the user takes part in group sessions.
 - `Avg_class_frequency_total:` average frequency of visits per week over the customer's lifetime.
-- `Avg_class_frequency_current_month:' average frequency of visits per week over the preceding month.
-- 'Avg_additional_charges_total:' the total amount of money spent on other gym services: cafe, athletic goods, cosmetics, massages, etc.
+- `Avg_class_frequency_current_month:` average frequency of visits per week over the preceding month.
+- `Avg_additional_charges_total:` the total amount of money spent on other gym services: cafe, athletic goods, cosmetics, massages, etc.
