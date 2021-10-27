@@ -7,6 +7,7 @@
 <p align ="center">
    <img src = "images/clusters.PNG">
  </p>
+ 
 ## Churn Prediction 
  <p align ="center">
    <img src = "images/cummulative gains.PNG">
