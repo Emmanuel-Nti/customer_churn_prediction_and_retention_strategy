@@ -44,4 +44,4 @@
 - Scikit-learn 
 - Scikit-plot
 - Seaborn
-- Scipy
+- Scipy 
