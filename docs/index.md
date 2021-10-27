@@ -13,11 +13,13 @@
 - Conclusion and Recommendations
  
 ## Cluster of Customers
+Customers can be optimally classified into 5 clusters
 <p align ="center">
    <img src = "images/clusters.PNG">
  </p>
  
 ## Churn Prediction 
+Targeting the top 40% of the custmers, we would capture about 95% of clients who would churn.
  <p align ="center">
    <img src = "images/cummulative gains.PNG">
  </p>
