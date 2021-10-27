@@ -3,7 +3,7 @@
    <img src = "images/churn rate.jpg" width="1000" 
      height="500">
  </p>
-## [Detailed Project Link](https://github.com/Emmanuel-Nti/customer_churn_prediction_and_retention_strategy/blob/master/customer_churn_nti.ipynb)
+## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/customer_churn_prediction_and_retention_strategy/blob/master/customer_churn_nti.ipynb)
 
 ## How I Approached the Project
 - Importation of the data and Libraries
