@@ -32,11 +32,13 @@
 - Churn rates differ among clusters. Clusters 3 and 4 are more prone to leaving, clusters 1 and 2 are more loyal.
 - Overall, churn rate is about 27%.
 - About 95% of churners are captured in the top 40% of the custmers.
+
 ## Recommendations
 - Optimally minimize customer churn with a promotion package targeting the top 40% of customers; this can boost customer retention up to about 95%.
 - Encourage customers to sign 12 months contract to reduce churn rate.
 - Pay much attention to customers in Clusters 3 and 4 as they are more prone to leaving.
 - Introduce loyalty programs.
+
 ## Libraries Used
 - Pandas 
 - Numpy 
