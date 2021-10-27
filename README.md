@@ -1,5 +1,6 @@
 # Customer Churn Prediction & Retention Strategy
 
+### [Project Summary](https://emmanuel-nti.github.io/customer_churn_prediction_and_retention_strategy/)
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
