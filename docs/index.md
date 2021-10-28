@@ -6,11 +6,11 @@
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/customer_churn_prediction_and_retention_strategy/blob/master/customer_churn_nti.ipynb)
 
 ## How I Approached the Project
-- Importation of the data and Libraries
+- Importation of the data and libraries
 - Preprocessed the data and carried out exploratory data analysis 
 - Built a model to predict customer churn
-- Created customers clusters
-- Conclusion and Recommendations
+- Classified customers into clusters
+- Conclusion and recommendations
  
 ## Cluster of Customers
 Customers can be optimally classified into 5 clusters
